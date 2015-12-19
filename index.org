@@ -1,0 +1,14 @@
+#+TITLE: Checklist of things by or about James P. Ascher
+#+AUTHOR: James P. Ascher
+#+EMAIL: james.ascher@gmail.com
+#+OPTIONS: TOC:2
+
+* Biographies
+
+* Rare Book Work
+
+* Literate Computation
+
+* Social Justice
+
+* Contacts
