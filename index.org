@@ -1,9 +1,14 @@
-#+TITLE: Checklist of things by or about James P. Ascher
+#+TITLE: /Checklist of things by or about/\\
+James P. Ascher
 #+AUTHOR: James P. Ascher
 #+EMAIL: james.ascher@gmail.com
-#+OPTIONS: TOC:2
+#+DATE: Dec. 12, 2015
 
 * Biographies
+** Scholars' Lab. [[http://scholarslab.org/people/james-p-ascher/]["James P. Ascher."]] 2015-6.
+   Praxis Fellowship, studying representations of time within digital humanities.
+** Academia.edu. [[https://virginia.academia.edu/JamesPAscher]["James P. Ascher."]] 2015.
+   Traditional academic CV and select publications.
 
 * Rare Book Work
 
