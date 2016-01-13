@@ -1,0 +1,84 @@
+/*Style for whole page*/
+body {
+  max-width: 640px;
+}
+
+h1 {
+  color: red;
+  font-variant: small-caps;
+}
+
+/*Style for the header*/
+header h1.title {
+  font-size: xx-large;
+  text-align: center;
+}
+
+header h1.title em {
+  font-variant: normal;
+  color: grey;
+  font-family: cursive;
+  font-size: x-small;
+  font-style: italic;
+  text-align: center;
+}
+
+header h2.author {
+   display: none;
+}
+
+header h3.date {
+  text-align: center;
+  font-size: x-small;
+  font-style: italic;
+  font-variant: normal;
+}
+
+header h3.date:before {
+  content: "(rev. ";
+}
+
+header h3.date:after {
+  content: ")";
+}
+
+/*Style for the navigation*/
+nav ul {
+  text-align: center;
+  position: fixed;
+  background: white;
+  padding: 0.5em;
+}
+
+nav ul{
+  list-style-type: none;
+}
+
+nav li {
+  float: left;
+}
+
+nav li:before {
+  content: "|";
+  padding: 1em;
+}
+
+nav li:first-child:before {
+  content: "";
+}
+
+/*Style for the body*/
+body h1 {
+  font-size: x-large;
+}
+
+body h2 {
+  font-size: large;
+  padding-left: 1em;
+}
+
+body p {
+  font-style: italic;
+  text-indent: -1em;
+  padding-left: 3em;
+}
