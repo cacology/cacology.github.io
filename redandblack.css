@@ -1,6 +1,16 @@
 /*Style for whole page*/
+html {
+  background-image: url(paisley.png);
+  background-attachment: fixed;
+  /* Background pattern from subtlepatterns.com */
+}
+
 body {
   max-width: 640px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 3em; /* should be the height of nav FIXME */
+  background-color: white;
 }
 
 h1 {
@@ -24,7 +34,7 @@ header h1.title em {
 }
 
 header h2.author {
-   display: none;
+  display: none;
 }
 
 header h3.date {
@@ -32,6 +42,7 @@ header h3.date {
   font-size: x-small;
   font-style: italic;
   font-variant: normal;
+
 }
 
 header h3.date:before {
@@ -43,33 +54,43 @@ header h3.date:after {
 }
 
 /*Style for the navigation*/
-nav ul {
-  text-align: center;
+nav {
   position: fixed;
-  background: white;
-  padding: 0.5em;
+  background-color: white;
+  top: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  width: 100%;
+  max-width: 640px;
 }
 
 nav ul{
   list-style-type: none;
+  margin-left: 0;
+  padding-left: 0;
+  text-align: center;
 }
 
 nav li {
-  float: left;
+  display: inline;
 }
 
 nav li:before {
-  content: "|";
-  padding: 1em;
+  content: " | ";
+  padding-left: 0.5em;
+  padding-right: 0.5em;
 }
 
 nav li:first-child:before {
   content: "";
+  float: left;
 }
 
 /*Style for the body*/
 body h1 {
   font-size: x-large;
+  padding-left: 0.1em;
 }
 
 body h2 {
