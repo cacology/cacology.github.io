@@ -9,15 +9,54 @@ public consumption, but if you're curious to see how it develops, I've
 made it available.
 
 * Biographies
-** Scholars' Lab. [[http://scholarslab.org/people/james-p-ascher/]["James P. Ascher."]] 2015-6.
-   Praxis Fellowship, studying representations of time within digital humanities.
-** Academia.edu. [[https://virginia.academia.edu/JamesPAscher]["James P. Ascher."]] 2015.
-   Traditional academic CV and select publications.
+** [[http://scholarslab.org/people/james-p-ascher/]["James P. Ascher · Scholars' Lab,"]] Scholars' Lab, University of Virginia, last modified 2015.
+   Praxis Fellow for 2015-16, studying representations of time within
+   digital humanities with a particular focus on literate programming,
+   language, and communication.
+** [[https://virginia.academia.edu/JamesPAscher]["James P. Ascher | University of Virginia - Academia.edu,"]] last modified 2015.
+   Traditional academic CV and select publications, mostly related to
+   rare book librarianship, and his work as Assistant Professor of
+   Libraries and English at CU Boulder.
+** [[http://gradstudies.dev.uvaits.virginia.edu/node/315]["Presidential Fellows in Data Science, 2015-2016 | gradstudies.virginia.edu,"]] Office of Graduate & Postdoctoral Affairs, University of Virginia, last modified 2015.
+   Media studies and bibliographical type approaches to the the way
+   people make arguments using data; collaborative and
+   interdisciplinary.
+** [[http://www.engl.virginia.edu/people/jpa4q]["| Department of English,"]] University of Virginia, last modified 2013.
+   Studying English at the University of Virginia, bibliography,
+   digital humanities, 18th century, British, and American.
+** [[https://printinghistory.org/author/jascher/]["James P. Ascher - American Printing History Association,"] last modified 2013.
+   Former Vice President of Publications and contributor to the
+   conferences and the blog.
 
-* Rare Book Work
+* Bibliography and Media Studies
+** Ascher, James P. "The Wordes Moote be Cosyn to the Dede: Diplomatic Transcription and Shifting Senses of Exactness Toward the Ecosystem of Digital Reproduction," /Appositions: Studies in Renaissance / Early Modern Literature & Culture/ 8 (2011) [[http://appositions.blogspot.com/2011/05/james-p-ascher-diplomatic-e.html]]
+   Some ways in which the expectations for an "exact" transcription of
+   a document have changed over time, focusing on the oft-reprinted
+   work of Chaucer.
+** [[https://www.youtube.com/playlist?list=PL697F2F9434362161]["ScriptaLab Talks,"]] University of Colorado Boulder, Director, 2010-14.
+   ScriptaLab aimed to find the intersection of traditional
+   book-oriented bibliographical studies and media studies; it
+   included a lecture series, advanced faculty seminar, and
+   publication series. The videos remain on YouTube, perhaps forever?
+** [[http://rbms.info/conferences2/preconferences/2013/index.html]["The 54th Annual Preconference of the Rare Books and Manuscripts Section,"] Minneapolis, Conference Chair, 2013.
+   Focused on issue in creating performance arts collections as well
+   as how the work of libraries is intrinsically a performance; also
+   explored LGBT issues and gender in archives and special
+   collections.
 
 * Literate Computation
+** [[https://github.com/cacology/private-diary]["private-diary,"]] MELPA package for Emacs, updated 2015.
+   A simple proof-of-concept using strong encryption to create a
+   private diary where you can keep your gossipy gossip and salacious
+   life in the world's best editor.
+** [[https://github.com/cacology/cacology.github.io]["Checklist of Things by or About,"]] GitHub page, update 2016.
+   You're looking at it.
 
-* Social Justice
+* Social Ethics
+** Ascher, James P. "How To Not be Creepy," /nomorepotlucks/ 27: crush (2013) [[http://nomorepotlucks.org/site/how-to-not-be-creepy-james-p-ascher/]].
+   Thoughts about how the 18th century teaches us that creeping is
+   eternal and that it's always creepy to stare.
 
 * Contacts
+** [[https://twitter.com/jpsa]["Twitter: @jpsa"]]
+** [[mailto:jpa4q@virginia.edu]["Email: jpa4q@virginia.edu"]]
