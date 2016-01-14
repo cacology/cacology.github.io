@@ -1,7 +1,10 @@
 /*Style for whole page*/
 html {
-  background-color: grey;
-  background-attachment: fixed;
+  background: #c9dbe9;
+  background: -webkit-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+  background: -linear-gradient(top, #c9dbe9 0%, #fff 100%);
+  background: -moz-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+  /*background-attachment: fixed;*/
   /*background-image: url(paisley.png);*/
   /* Background pattern from subtlepatterns.com */
 }
