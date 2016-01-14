@@ -2,7 +2,8 @@
 James P. Ascher
 #+AUTHOR: James P. Ascher
 #+EMAIL: james.ascher@gmail.com
-#+DATE: Dec. 12, 2015
+#+DATE: Jan. 14, 2016
+
 
 Like any bibliographical project, this is necessarily selective based
 on the material available—in this case—on the web. If you want a CV,

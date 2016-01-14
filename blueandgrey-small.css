@@ -1,15 +1,12 @@
-/*Style for whole page size 600px and up*/
+/*Style for whole page below 600px wide*/
 html {
   background: #c9dbe9;
-  background: -webkit-linear-gradient(top, #c9dbe9 0%, #fff 100%);
-  background: -linear-gradient(top, #c9dbe9 0%, #fff 100%);
-  background: -moz-linear-gradient(top, #c9dbe9 0%, #fff 100%);
+  overflow-x: hidden;
 }
 
 body {
-  max-width: 600px;
-  margin-left: 250px;
-  margin-right: auto;
+  margin-left: 0;
+  margin-right: 0;
   margin-top: 4em; /* should be the height of nav FIXME */
   background-color: white;
 }
@@ -58,28 +55,36 @@ header h3.date:after {
 nav {
   position: fixed;
   background-color: white;
-  left: 10px;
-  border-width: 3px;
-  border-color: grey;
-  border-style: solid;
-  border-radius: 10px;
+  top: 0;
+  border-bottom-width: 1px;
+  border-bottom-color: black;
+  border-bottom-style: solid;
+  width: 100%;
+  max-width: 600px;
 }
 
 nav ul{
   list-style-type: none;
-  margin-left: 0;
-  padding-left: 0;
-  margin-right: 10px;
+  margin: 0;
+  padding: 0;
   text-align: center;
 }
 
 nav li {
+  display: inline;
   font-variant: small-caps;
+  font-size: small;
 }
 
 nav li:before {
-  content: "☞";
-  padding-left: 0.5em;
+  content: " | ";
+  padding-left: 0.2em;
+  padding-right: 0.2em;
+}
+
+nav li:first-child:before {
+  content: "";
+  float: left;
 }
 
 /*Style for the body*/
