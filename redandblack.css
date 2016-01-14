@@ -1,7 +1,8 @@
 /*Style for whole page*/
 html {
-  background-image: url(paisley.png);
+  background-color: grey;
   background-attachment: fixed;
+  /*background-image: url(paisley.png);*/
   /* Background pattern from subtlepatterns.com */
 }
 
@@ -14,8 +15,15 @@ body {
 }
 
 h1 {
-  color: red;
+  color: darkblue;
+  background-color: lightgrey;
   font-variant: small-caps;
+  border-bottom-width: 4px;
+  border-bottom-style: ridge;
+  border-bottom-color: grey;
+  border-top-width: 4px;
+  border-top-style: groove;
+  border-top-color: grey;
 }
 
 /*Style for the header*/
@@ -27,7 +35,6 @@ header h1.title {
 header h1.title em {
   font-variant: normal;
   color: grey;
-  font-family: cursive;
   font-size: x-small;
   font-style: italic;
   text-align: center;
