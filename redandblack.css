@@ -21,12 +21,12 @@ h1 {
   color: maroon;
   background-color: lightgrey;
   font-variant: small-caps;
-  border-bottom-width: 4px;
+  /*border-bottom-width: 4px;
   border-bottom-style: ridge;
   border-bottom-color: grey;
   border-top-width: 4px;
   border-top-style: groove;
-  border-top-color: grey;
+  border-top-color: grey;*/
 }
 
 /*Style for the header*/
@@ -68,9 +68,9 @@ nav {
   position: fixed;
   background-color: white;
   top: 0;
-  border-bottom-width: 1px;
+  /*border-bottom-width: 1px;
   border-bottom-color: black;
-  border-bottom-style: solid;
+  border-bottom-style: solid;*/
   width: 100%;
   max-width: 640px;
 }
