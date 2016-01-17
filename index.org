@@ -31,6 +31,10 @@ it’s below.
    Some ways in which the expectations for an “exact” transcription of
    a document have changed over time, focusing on the oft-reprinted
    work of Chaucer.
+** Ascher, James P. "Bibliographical Awareness in Art: Joel Swanson's Spacebar" /media archaeology lab/ (2013) [[http://mediaarchaeologylab.com/blog/bibliographical-awareness-art-joel-swansons-spacebar/]]
+   A meditation on the spacebar as object of both experience and in a
+   historical moment; it demonstrates how the print historical can
+   influence the everyday.
 ** [[https://www.youtube.com/playlist?list=PL697F2F9434362161]["ScriptaLab Talks,"]] University of Colorado Boulder, Director, 2010-14.
    ScriptaLab aimed to find the intersection of traditional
    book-oriented bibliographical studies and media studies; it
@@ -48,7 +52,7 @@ it’s below.
    private diary where you can keep your gossipy gossip and salacious
    life in the world's best editor.
 ** [[https://github.com/cacology/cacology.github.io]["Annotated checklist of Things by or About,"]] GitHub page, update 2016.
-   You're looking at it, but it’s base on an org-mode file compiled
+   You're looking at it, but it’s based on an org-mode file compiled
    with pandoc and styled with bare CSS. All hand-coded, all the
    time.
 
