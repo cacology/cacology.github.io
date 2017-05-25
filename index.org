@@ -27,6 +27,11 @@ it’s below.
    Libraries and English at CU Boulder.
 
 * Bibliography/Media Studies
+
+** Ascher, James P. "Visualizing Paper Evidence Using Digital Reproductions" /Scholars' Lab Blog/ (2017) http://scholarslab.org/digital-humanities/visualizing-paper-evidence-using-digital-reproductions/
+   Examines how modern digitization techniques can expose otherwise
+   invisible evidence in books, particularly 16-bit channel images and
+   paper evidence.
 ** Ascher, James P. "The Wordes Moote be Cosyn to the Dede: Diplomatic Transcription and Shifting Senses of Exactness Toward the Ecosystem of Digital Reproduction," /Appositions: Studies in Renaissance / Early Modern Literature & Culture/ 8 (2011) [[http://appositions.blogspot.com/2011/05/james-p-ascher-diplomatic-e.html]]
    Some ways in which the expectations for an “exact” transcription of
    a document have changed over time, focusing on the oft-reprinted
@@ -45,7 +50,6 @@ it’s below.
    as how the work of libraries is intrinsically a performance; also
    explored LGBT issues and gender in archives and special
    collections.
-
 * Literate Computation
 ** [[https://github.com/cacology/private-diary]["private-diary,"]] MELPA package for Emacs, updated 2015.
    A simple proof-of-concept using strong encryption to create a
